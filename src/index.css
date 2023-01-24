@@ -1,0 +1,19 @@
+
+body {
+  background-color: #211349;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Saira';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+canvas {
+  padding: 0;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}

@@ -1,0 +1,111 @@
+
+.record {
+  background-color: #292458;
+  height: 285px;
+  color: white;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.record-header {
+  height: 90px;
+  background: #a264f3;
+  position: relative;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-block-end-color: white;
+}
+
+.time {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+
+.last-record {
+  font-size: 12px;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+.badge {
+  background-color: #292458;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border-radius: 32.5px;
+  width: 65px;
+  height: 65px;
+}
+
+.rank {
+  font-size: 12px;
+  font-weight: bolder;
+  padding-left: 8px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.population {
+  font-size: 8px;
+  padding-left: 15px;
+}
+
+.item {
+  position: relative;
+  margin-top: 20px;
+}
+
+.item-name {
+  font-size: 13px;
+  margin-left: -25px
+}
+
+.item-record {
+  position: absolute;
+  right: 45px;
+  top: -8px;
+  background-color: #39305d;
+  padding: 0 10px;
+}
+
+.item-record-label {
+  font-size: 10px;
+  color: rgb(192, 180, 180);
+  padding-left: 5px;
+}
+
+.item-record-time {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: -5px;
+}
+
+.item-record-rank {
+  position: absolute;
+  right: 10px;
+  top: -8px;
+}
+
+.item-record-rank-label {
+  font-size: 10px;
+  color: rgb(192, 180, 180);
+}
+
+.item-record-rank-value {
+  margin-top: -5px;  
+  font-weight: bolder;
+}
+
+.item-record-rank-number {
+  font-size: 20px;
+}
+
+.item-record-rank-suffix {
+  font-size: 10px;
+}
+
+.record-list {
+  list-style-type: none;
+  margin-top: -10px
+}

@@ -1,0 +1,56 @@
+
+.chat {
+  height: 285px;
+}
+
+.joiner {
+  color: #ff3eec;
+  margin-bottom: 3px;
+}
+
+.message {
+  margin-bottom: 3px
+}
+
+.status {
+  color: #f09504;
+  font-size: 16px;
+  font-weight: bolder
+}
+
+.messages {
+  border-radius: 10px;
+  border-style: double;
+  border-color: white;
+  color: white;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.controls {
+  margin-top: 25px
+}
+
+#entry {
+  border-style: double;
+  border-color: white;
+  padding: 10px;
+  background-color: #292458;
+  border-radius: 5px;
+  color: white;
+  width: 60%;
+  font-family: Saira;
+  height: 20px;
+}
+
+#submit {
+  background-color: #864df5;
+  color: white;
+  width: 25%;
+  border-radius: 5px;
+  height: 45px;
+  margin-left: 20px;
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: Saira;
+}

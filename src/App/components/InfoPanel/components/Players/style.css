@@ -1,0 +1,56 @@
+
+.players {
+  background-color: #292458;
+  height: 285px;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+
+.players-header {
+  position: relative;  
+  font-weight: bolder;  
+}
+
+.page {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.setting {
+  padding-left: 5px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+#settings {
+  height: 35px;
+  width: 95%;
+  background-color: #834cf7;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: Saira;
+  font-weight: bolder;
+  position: relative;
+}
+
+.icon {
+  margin-top: 3px;
+  margin-right: 50px;
+}
+
+.label {
+  position: absolute;
+  top: 3px;
+  right: 85px;
+}
+
+.player {
+  clear: left;  
+}
+
+.avatar {
+  float: left;  
+}
