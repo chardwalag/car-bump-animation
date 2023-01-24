@@ -1,5 +1,5 @@
-# wrong-way-racer
-Demo app showcasing the internet browser as the game platform using PixiJS, React/NodeJS, MUI, and sockets programming (SocketIO)
+# car-bump-game
+Demo app showcasing the internet browser as the game platform using PixiJS, React/NodeJS and MUI
 
 Sample output video is found at /doc
 
