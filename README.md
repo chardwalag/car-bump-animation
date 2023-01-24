@@ -1,5 +1,6 @@
 # car-bump-animation
-Demo app showcasing the internet browser as the game platform using PixiJS, React/NodeJS and MUI
+Demo app showcasing the internet browser as the game platform using PixiJS and React/NodeJS
+(not tested for mobile)
 
 Sample output video is found at /doc
 
